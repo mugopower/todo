@@ -15,7 +15,5 @@
  			echo "complete";
 		}
 	}
-	
-
 	$conn = NULL;
 ?>

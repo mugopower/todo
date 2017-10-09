@@ -16,7 +16,6 @@
 			$taskName = $row['task'];
 		}
 	}
-
 	$conn = NULL;
 
 	echo'<tr id="div'.$taskId.'">
