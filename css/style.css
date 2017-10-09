@@ -1,0 +1,28 @@
+.container{
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 5%;
+}
+
+.inner {
+	width: 100%;
+	margin-bottom: 5%;
+}
+
+.todo-text {
+	width: 50%;
+	height: 6%;
+	border-radius: 4px 4px 4px 4px;
+	border-color: #9292bfb3;
+}
+
+.delete-task{
+	cursor: pointer;
+	background-color: crimson;
+	width: 30px;
+}
+
+.complete-task {
+	cursor: pointer;
+	width: 35px;
+}
